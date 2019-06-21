@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to show ASPxPopupControl as a tooltip for the grid cells
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t473758/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to show ASPxPopupControl instead of a standard cell tooltip. </p>
